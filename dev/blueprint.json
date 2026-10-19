@@ -1,0 +1,22 @@
+{
+	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
+	"landingPage": "/",
+	"preferredVersions": { "php": "8.3", "wp": "latest" },
+	"features": { "networking": true },
+	"steps": [
+		{ "step": "setSiteLanguage", "language": "ar" },
+		{
+			"step": "setSiteOptions",
+			"options": {
+				"blogname": "zahratalmaghrib",
+				"blogdescription": "زهرة المغرب : مجلة إلكترونية نسائية متخصصة",
+				"permalink_structure": "/%postname%/",
+				"posts_per_page": 10,
+				"timezone_string": "Africa/Casablanca",
+				"show_on_front": "posts"
+			}
+		},
+		{ "step": "activateTheme", "themeFolderName": "zahrat-almaghrib" },
+		{ "step": "runPHP", "code": "<?php require '/wordpress/wp-load.php'; require '/wordpress/zam-dev/seed.php'; echo 'seeded';" }
+	]
+}

@@ -1,0 +1,61 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "zahrat-almaghrib/post-section",
+	"title": "Category section",
+	"description": "Stories from one existing category in one of several layouts.",
+	"icon": "columns",
+	"attributes": {
+		"category": {
+			"type": "string",
+			"default": ""
+		},
+		"title": {
+			"type": "string",
+			"default": ""
+		},
+		"layout": {
+			"type": "string",
+			"default": "feature",
+			"enum": [
+				"feature",
+				"grid",
+				"list",
+				"portrait",
+				"text"
+			]
+		},
+		"count": {
+			"type": "integer",
+			"default": 4
+		},
+		"tone": {
+			"type": "string",
+			"default": "default",
+			"enum": [
+				"default",
+				"sand",
+				"night"
+			]
+		},
+		"showMore": {
+			"type": "boolean",
+			"default": true
+		},
+		"excerpt": {
+			"type": "boolean",
+			"default": false
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": [
+			"wide",
+			"full"
+		]
+	},
+	"category": "zahrat-almaghrib",
+	"textdomain": "zahrat-almaghrib",
+	"editorScript": "zam-blocks-editor",
+	"render": "file:./render.php"
+}

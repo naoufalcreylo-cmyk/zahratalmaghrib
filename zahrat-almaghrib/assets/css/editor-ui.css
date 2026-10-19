@@ -1,0 +1,12 @@
+/* Inspector controls for the theme's blocks (outside the editor canvas). */
+.zam-picker { margin-block-end: 16px; }
+.zam-picker__label { font-weight: 600; margin: 0 0 8px; }
+.zam-picker__empty { color: #757575; font-size: 12px; margin: 0 0 8px; }
+.zam-picker__list { margin: 0 0 12px; padding-inline-start: 20px; }
+.zam-picker__list li { display: flex; align-items: center; justify-content: space-between; gap: 4px; margin-block-end: 6px; }
+.zam-picker__list li > span:first-child { flex: 1; font-size: 13px; line-height: 1.4; }
+.zam-picker__actions { display: inline-flex; flex: none; }
+.zam-picker__results { margin: 8px 0 0; padding: 0; list-style: none; max-height: 220px; overflow: auto; border: 1px solid #ddd; }
+.zam-picker__results li { padding: 4px 8px; border-block-end: 1px solid #f0f0f0; }
+.zam-picker__results .components-button.is-link { text-align: start; text-decoration: none; white-space: normal; height: auto; }
+.zam-logo-control { display: flex; gap: 8px; align-items: center; margin-block-end: 16px; }

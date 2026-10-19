@@ -1,0 +1,18 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "zahrat-almaghrib/archive-header",
+	"title": "Archive header",
+	"description": "Title, label and description for category, tag, author, date and search pages.",
+	"icon": "heading",
+	"supports": {
+		"html": false,
+		"align": [
+			"wide"
+		]
+	},
+	"category": "zahrat-almaghrib",
+	"textdomain": "zahrat-almaghrib",
+	"editorScript": "zam-blocks-editor",
+	"render": "file:./render.php"
+}

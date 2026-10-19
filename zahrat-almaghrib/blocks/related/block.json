@@ -1,0 +1,28 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "zahrat-almaghrib/related",
+	"title": "Related articles",
+	"description": "Stories sharing tags or categories with the current article.",
+	"icon": "excerpt-view",
+	"attributes": {
+		"count": {
+			"type": "integer",
+			"default": 3
+		}
+	},
+	"usesContext": [
+		"postId",
+		"postType"
+	],
+	"supports": {
+		"html": false,
+		"align": [
+			"wide"
+		]
+	},
+	"category": "zahrat-almaghrib",
+	"textdomain": "zahrat-almaghrib",
+	"editorScript": "zam-blocks-editor",
+	"render": "file:./render.php"
+}

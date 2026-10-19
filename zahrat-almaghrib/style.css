@@ -1,0 +1,17 @@
+/*
+Theme Name: Zahrat Al Maghrib
+Theme URI: https://zahratalmaghrib.com/
+Author: Zahrat Al Maghrib
+Description: An Arabic-first editorial block theme for زهرة المغرب — مجلة إلكترونية نسائية متخصصة. Native RTL, self-hosted Noto Kufi Arabic / Noto Naskh Arabic, LTR support for French articles, editorial homepage blocks without duplicate stories, and labelled advertising slots.
+Requires at least: 6.6
+Tested up to: 7.1
+Requires PHP: 7.4
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: zahrat-almaghrib
+Domain Path: /languages
+Tags: rtl-language-support, news, blog, block-patterns, full-site-editing, editor-style, translation-ready, wide-blocks, custom-logo, accessibility-ready
+*/
+
+/* Component styles live in assets/css/theme.css; design tokens live in theme.json. */

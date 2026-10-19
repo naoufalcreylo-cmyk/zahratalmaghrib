@@ -1,0 +1,32 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "zahrat-almaghrib/curated",
+	"title": "Editors’ selection",
+	"description": "Stories chosen by hand by the editors. Hidden until stories are picked.",
+	"icon": "star-empty",
+	"attributes": {
+		"postIds": {
+			"type": "array",
+			"default": [],
+			"items": {
+				"type": "integer"
+			}
+		},
+		"title": {
+			"type": "string",
+			"default": ""
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": [
+			"wide",
+			"full"
+		]
+	},
+	"category": "zahrat-almaghrib",
+	"textdomain": "zahrat-almaghrib",
+	"editorScript": "zam-blocks-editor",
+	"render": "file:./render.php"
+}

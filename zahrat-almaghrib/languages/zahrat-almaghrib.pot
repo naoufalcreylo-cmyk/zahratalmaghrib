@@ -1,0 +1,969 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zahrat Al Maghrib 1.0.0\n"
+"POT-Creation-Date: 2026-10-19 21:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: zahrat-almaghrib\n"
+
+#: assets/js/editor.js:34
+msgid "— Select a category —"
+msgstr ""
+
+#: assets/js/editor.js:47
+msgid "Category"
+msgstr ""
+
+#: assets/js/editor.js:51
+msgid "Loading categories…"
+msgstr ""
+
+#: assets/js/editor.js:127
+msgid "Move up"
+msgstr ""
+
+#: assets/js/editor.js:128
+msgid "Move down"
+msgstr ""
+
+#: assets/js/editor.js:133
+msgid "Remove"
+msgstr ""
+
+#: assets/js/editor.js:145
+msgid "Search posts to add"
+msgstr ""
+
+#: assets/js/editor.js:191
+msgid "Nothing to show here in the editor. The block renders with real content on the site."
+msgstr ""
+
+#: assets/js/editor.js:203 assets/js/editor.js:413
+msgid "Settings"
+msgstr ""
+
+#: assets/js/editor.js:263
+msgid "Replace logo"
+msgstr ""
+
+#: assets/js/editor.js:263
+msgid "Choose logo"
+msgstr ""
+
+#: assets/js/editor.js:267
+msgid "Remove logo"
+msgstr ""
+
+#: assets/js/editor.js:279
+msgid "Size"
+msgstr ""
+
+#: assets/js/editor.js:282
+msgid "Masthead"
+msgstr ""
+
+#: assets/js/editor.js:283
+msgid "Compact"
+msgstr ""
+
+#: assets/js/editor.js:287
+msgid "Show tagline"
+msgstr ""
+
+#: assets/js/editor.js:288
+msgid "The logo is shared by the whole site. Without a logo, a temporary Arabic wordmark is shown. The preview updates after reloading the editor."
+msgstr ""
+
+#: assets/js/editor.js:298
+msgid "Hand-picked stories (first = lead)"
+msgstr ""
+
+#: assets/js/editor.js:299
+msgid "No stories picked: sticky posts, then the latest posts, are used."
+msgstr ""
+
+#: assets/js/editor.js:304
+msgid "Supporting stories"
+msgstr ""
+
+#: assets/js/editor.js:305
+msgid "Fill with sticky posts"
+msgstr ""
+
+#: assets/js/editor.js:306
+msgid "Limit automatic stories to a category"
+msgstr ""
+
+#: assets/js/editor.js:306
+msgid "All categories"
+msgstr ""
+
+#: assets/js/editor.js:314 assets/js/editor.js:325 assets/js/editor.js:358
+msgid "Title"
+msgstr ""
+
+#: assets/js/editor.js:314
+msgid "Leave empty for “Latest news”."
+msgstr ""
+
+#: assets/js/editor.js:315 assets/js/editor.js:350
+msgid "Show excerpts"
+msgstr ""
+
+#: assets/js/editor.js:325
+msgid "Leave empty to use the category name."
+msgstr ""
+
+#: assets/js/editor.js:327 assets/js/editor.js:388
+msgid "Layout"
+msgstr ""
+
+#: assets/js/editor.js:330
+msgid "Feature + list"
+msgstr ""
+
+#: assets/js/editor.js:331 assets/js/editor.js:392
+msgid "Grid"
+msgstr ""
+
+#: assets/js/editor.js:332
+msgid "Portrait grid"
+msgstr ""
+
+#: assets/js/editor.js:333
+msgid "Column list"
+msgstr ""
+
+#: assets/js/editor.js:334
+msgid "Text only (opinion)"
+msgstr ""
+
+#: assets/js/editor.js:338 assets/js/editor.js:374
+msgid "Number of stories"
+msgstr ""
+
+#: assets/js/editor.js:340
+msgid "Background"
+msgstr ""
+
+#: assets/js/editor.js:343
+msgid "None"
+msgstr ""
+
+#: assets/js/editor.js:344
+msgid "Sand"
+msgstr ""
+
+#: assets/js/editor.js:345
+msgid "Dark"
+msgstr ""
+
+#: assets/js/editor.js:349
+msgid "Show “More” link"
+msgstr ""
+
+#: assets/js/editor.js:358
+msgid "Leave empty for “Editors’ selection”."
+msgstr ""
+
+#: assets/js/editor.js:360
+msgid "Stories"
+msgstr ""
+
+#: assets/js/editor.js:361
+msgid "Pick 3, 4, 6 or 8 stories. The section stays hidden until you do."
+msgstr ""
+
+#: assets/js/editor.js:370
+msgid "Minimum level-2 headings"
+msgstr ""
+
+#: assets/js/editor.js:381
+msgid "Menu location"
+msgstr ""
+
+#: assets/js/editor.js:382
+msgid "Accessible label"
+msgstr ""
+
+#: assets/js/editor.js:391
+msgid "List"
+msgstr ""
+
+#: assets/js/editor.js:415
+msgid "Format (reserved space)"
+msgstr ""
+
+#: assets/js/editor.js:418
+msgid "Leaderboard — 728 × 90 / mobile 320 × 100"
+msgstr ""
+
+#: assets/js/editor.js:419
+msgid "Rectangle — 300 × 250"
+msgstr ""
+
+#: assets/js/editor.js:420
+msgid "In-article — 300 × 250 / fluid"
+msgstr ""
+
+#: assets/js/editor.js:424
+msgid "Paste the ad code into the Custom HTML block. The slot and its “Advertisement” label stay hidden on the site while it is empty."
+msgstr ""
+
+#: assets/js/editor.js:430 blocks/ad-slot/render.php:24
+msgid "Advertisement"
+msgstr ""
+
+#: blocks/ad-slot/block.json
+msgctxt "block title"
+msgid "Advertising slot"
+msgstr ""
+
+#: blocks/ad-slot/block.json
+msgctxt "block description"
+msgid "A labelled advertising placement with reserved space. Hidden while empty."
+msgstr ""
+
+#: blocks/ad-slot/render.php:18
+msgid "Advertising slot: hidden on the site until ad code is added."
+msgstr ""
+
+#: blocks/ad-slot/render.php:25
+msgctxt "ad label"
+msgid "Advertisement"
+msgstr ""
+
+#: blocks/archive-header/block.json
+msgctxt "block title"
+msgid "Archive header"
+msgstr ""
+
+#: blocks/archive-header/block.json
+msgctxt "block description"
+msgid "Title, label and description for category, tag, author, date and search pages."
+msgstr ""
+
+#: blocks/archive-header/render.php:21
+msgid "Section"
+msgstr ""
+
+#: blocks/archive-header/render.php:33
+msgid "Subsections"
+msgstr ""
+
+#: blocks/archive-header/render.php:40
+msgid "Tag"
+msgstr ""
+
+#: blocks/archive-header/render.php:45
+msgid "Author"
+msgstr ""
+
+#: blocks/archive-header/render.php:51 blocks/breadcrumbs/render.php:70
+msgid "Search results"
+msgstr ""
+
+#: blocks/archive-header/render.php:53
+msgid "“%s”"
+msgstr ""
+
+#: blocks/archive-header/render.php:55 patterns/header.php:13 patterns/header.php:16 patterns/template-404.php:14
+msgid "Search"
+msgstr ""
+
+#: blocks/archive-header/render.php:58 blocks/archive-header/render.php:61
+msgid "Archive"
+msgstr ""
+
+#: blocks/archive-header/render.php:92 blocks/breadcrumbs/render.php:85
+msgid "Page %s"
+msgstr ""
+
+#: blocks/archive-header/render.php:108
+msgid "Search again"
+msgstr ""
+
+#: blocks/archive-header/render.php:72
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: blocks/archive-header/render.php:74
+msgid "%s article"
+msgid_plural "%s articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: blocks/archive-list/block.json
+msgctxt "block title"
+msgid "Archive listing"
+msgstr ""
+
+#: blocks/archive-list/block.json
+msgctxt "block description"
+msgid "The current archive or search results with pagination and an empty state."
+msgstr ""
+
+#: blocks/archive-list/render.php:42
+msgid "No results found"
+msgstr ""
+
+#: blocks/archive-list/render.php:46
+msgid "We found no articles matching “%s”."
+msgstr ""
+
+#: blocks/archive-list/render.php:50
+msgid "Check the spelling, or try writing the word with or without hamza (أ / ا) and ta marbuta (ة / ه)."
+msgstr ""
+
+#: blocks/archive-list/render.php:51
+msgid "Use fewer or more general words."
+msgstr ""
+
+#: blocks/archive-list/render.php:52
+msgid "Browse one of the sections below."
+msgstr ""
+
+#: blocks/archive-list/render.php:55
+msgid "No articles here yet"
+msgstr ""
+
+#: blocks/archive-list/render.php:56
+msgid "There are no published articles on this page. Browse the latest news or another section."
+msgstr ""
+
+#: blocks/archive-list/render.php:59 patterns/footer.php:44
+msgid "Sections"
+msgstr ""
+
+#: blocks/archive-list/render.php:65 patterns/template-404.php:38
+msgid "Back to the homepage"
+msgstr ""
+
+#: blocks/author-box/block.json
+msgctxt "block title"
+msgid "Author biography"
+msgstr ""
+
+#: blocks/author-box/block.json
+msgctxt "block description"
+msgid "Author card, shown only when the author has a biography."
+msgstr ""
+
+#: blocks/author-box/render.php:18
+msgid "The author card appears when the author has a biography in their profile."
+msgstr ""
+
+#: blocks/author-box/render.php:23
+msgid "About the author"
+msgstr ""
+
+#: blocks/author-box/render.php:33
+msgid "All articles by %s"
+msgstr ""
+
+#: blocks/brand/block.json
+msgctxt "block title"
+msgid "Logo or wordmark"
+msgstr ""
+
+#: blocks/brand/block.json
+msgctxt "block description"
+msgid "Site logo when one is set; otherwise the temporary Arabic wordmark."
+msgstr ""
+
+#: blocks/brand/render.php:12 inc/blocks.php:34 inc/setup.php:111
+msgid "Zahrat Al Maghrib"
+msgstr ""
+
+#: blocks/brand/render.php:33 blocks/copyright/render.php:14 blocks/lead-stories/render.php:67
+msgctxt "temporary Arabic wordmark"
+msgid "زهرة المغرب"
+msgstr ""
+
+#: blocks/breadcrumbs/block.json
+msgctxt "block title"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: blocks/breadcrumbs/block.json
+msgctxt "block description"
+msgid "Home › category › current page."
+msgstr ""
+
+#: blocks/breadcrumbs/render.php:17
+msgid "Home"
+msgstr ""
+
+#: blocks/breadcrumbs/render.php:74
+msgid "Page not found"
+msgstr ""
+
+#: blocks/breadcrumbs/render.php:78 blocks/latest/render.php:31
+msgid "Latest news"
+msgstr ""
+
+#: blocks/breadcrumbs/render.php:91
+msgid "Breadcrumb"
+msgstr ""
+
+#: blocks/byline/block.json
+msgctxt "block title"
+msgid "Article byline"
+msgstr ""
+
+#: blocks/byline/block.json
+msgctxt "block description"
+msgid "Author, publication date and, when relevant, the updated date."
+msgstr ""
+
+#: blocks/byline/render.php:29
+msgid "By"
+msgstr ""
+
+#: blocks/byline/render.php:35
+msgid "Published:"
+msgstr ""
+
+#: blocks/byline/render.php:40
+msgid "Updated:"
+msgstr ""
+
+#: blocks/copyright/block.json
+msgctxt "block title"
+msgid "Copyright line"
+msgstr ""
+
+#: blocks/copyright/block.json
+msgctxt "block description"
+msgid "© with the current year and the publication name."
+msgstr ""
+
+#: blocks/curated/block.json
+msgctxt "block title"
+msgid "Editors’ selection"
+msgstr ""
+
+#: blocks/curated/block.json
+msgctxt "block description"
+msgid "Stories chosen by hand by the editors. Hidden until stories are picked."
+msgstr ""
+
+#: blocks/curated/render.php:18
+msgid "Editors’ selection is hidden on the site until you pick stories in the block settings."
+msgstr ""
+
+#: blocks/curated/render.php:26
+msgid "Editors’ selection"
+msgstr ""
+
+#: blocks/featured-figure/block.json
+msgctxt "block title"
+msgid "Article featured image"
+msgstr ""
+
+#: blocks/featured-figure/block.json
+msgctxt "block description"
+msgid "Featured image with caption and credit when available."
+msgstr ""
+
+#: blocks/featured-figure/render.php:51
+msgid "Photo: %s"
+msgstr ""
+
+#: blocks/latest/block.json
+msgctxt "block title"
+msgid "Latest articles"
+msgstr ""
+
+#: blocks/latest/block.json
+msgctxt "block description"
+msgid "Latest posts with real pagination, skipping stories already shown above."
+msgstr ""
+
+#: blocks/latest/render.php:23
+msgid "No more posts to show."
+msgstr ""
+
+#: blocks/latest/render.php:41
+msgid "%1$s — page %2$s"
+msgstr ""
+
+#: blocks/lead-stories/block.json
+msgctxt "block title"
+msgid "Lead stories"
+msgstr ""
+
+#: blocks/lead-stories/block.json
+msgctxt "block description"
+msgid "One lead story and up to four supporting stories. Manual picks first, then sticky posts, then the latest posts."
+msgstr ""
+
+#: blocks/lead-stories/render.php:58
+msgid "No published posts yet."
+msgstr ""
+
+#: blocks/lead-stories/render.php:67
+msgid "%s — top stories"
+msgstr ""
+
+#: blocks/lead-stories/render.php:69
+msgid "Top stories"
+msgstr ""
+
+#: blocks/menu/block.json
+msgctxt "block title"
+msgid "Classic menu"
+msgstr ""
+
+#: blocks/menu/block.json
+msgctxt "block description"
+msgid "Displays the menu assigned to a classic location. Hidden when no menu is assigned."
+msgstr ""
+
+#: blocks/menu/render.php:13
+msgid "Assign a menu to this location in Appearance → Menus."
+msgstr ""
+
+#: blocks/menu/render.php:19 inc/setup.php:38
+msgid "Footer links"
+msgstr ""
+
+#: blocks/post-section/block.json
+msgctxt "block title"
+msgid "Category section"
+msgstr ""
+
+#: blocks/post-section/block.json
+msgctxt "block description"
+msgid "Stories from one existing category in one of several layouts."
+msgstr ""
+
+#: blocks/post-section/render.php:17
+msgid "Choose an existing category for this section."
+msgstr ""
+
+#: blocks/post-section/render.php:37
+msgid "This category has no posts to show yet."
+msgstr ""
+
+#: blocks/related/block.json
+msgctxt "block title"
+msgid "Related articles"
+msgstr ""
+
+#: blocks/related/block.json
+msgctxt "block description"
+msgid "Stories sharing tags or categories with the current article."
+msgstr ""
+
+#: blocks/related/render.php:60
+msgid "Related articles"
+msgstr ""
+
+#: blocks/share/block.json
+msgctxt "block title"
+msgid "Share links"
+msgstr ""
+
+#: blocks/share/block.json
+msgctxt "block description"
+msgid "WhatsApp, Facebook and copy-link buttons."
+msgstr ""
+
+#: blocks/share/render.php:20
+msgid "(opens in a new tab)"
+msgstr ""
+
+#: blocks/share/render.php:23
+msgid "Share"
+msgstr ""
+
+#: blocks/share/render.php:25
+msgid "WhatsApp"
+msgstr ""
+
+#: blocks/share/render.php:26
+msgid "Facebook"
+msgstr ""
+
+#: blocks/share/render.php:27
+msgid "Copy link"
+msgstr ""
+
+#: blocks/toc/block.json
+msgctxt "block title"
+msgid "Table of contents"
+msgstr ""
+
+#: blocks/toc/block.json
+msgctxt "block description"
+msgid "Shown automatically when the article has enough headings."
+msgstr ""
+
+#: blocks/toc/render.php:25
+msgid "The table of contents appears when the article has at least three level-2 headings."
+msgstr ""
+
+#: blocks/toc/render.php:32
+msgid "In this article"
+msgstr ""
+
+#: inc/cards.php:55
+msgid "(Untitled)"
+msgstr ""
+
+#: inc/cards.php:192
+msgid "More"
+msgstr ""
+
+#: inc/cards.php:219
+msgid "Previous"
+msgstr ""
+
+#: inc/cards.php:220
+msgid "Next"
+msgstr ""
+
+#: inc/cards.php:221
+msgid "Page"
+msgstr ""
+
+#: inc/cards.php:227
+msgid "Pagination"
+msgstr ""
+
+#: inc/setup.php:65
+msgid "Link copied"
+msgstr ""
+
+#: inc/setup.php:66
+msgid "Copy failed. Select the address bar to copy the link."
+msgstr ""
+
+#: patterns/footer.php:22
+msgid "Zahrat Al Maghrib is a comprehensive women’s online magazine in Arabic and French, covering women, family and society, as well as news, culture, the arts and sport."
+msgstr ""
+
+#: patterns/footer.php:34
+msgid "The magazine"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Back to top"
+msgstr ""
+
+#: patterns/header.php:15
+msgid "Search the magazine…"
+msgstr ""
+
+#: patterns/header.php:24
+msgid "Main menu"
+msgstr ""
+
+#: patterns/template-404.php:11
+msgid "Search the magazine"
+msgstr ""
+
+#: patterns/template-404.php:13
+msgid "Type a word or a name…"
+msgstr ""
+
+#: patterns/template-404.php:26
+msgid "This page could not be found"
+msgstr ""
+
+#: patterns/template-404.php:30
+msgid "The link may be broken, or the page may have been moved. Try searching, or go back to the homepage."
+msgstr ""
+
+#: patterns/template-single-plain.php:44 patterns/template-single.php:45
+msgid "Tags:"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ivory"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sand"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Charcoal"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Muted text"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Burgundy"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Deep burgundy"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Muted gold (decorative)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gold (text-safe)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Night"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XS"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "S"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "M"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Article body"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "L"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Display"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Noto Kufi Arabic (headings)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Noto Naskh Arabic (reading)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Noto Serif (French)"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XS"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "S"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "M"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "L"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXL"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (sticky navigation)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (static)"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Wide page"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Article without table of contents"
+msgstr ""
+
+#: style.css
+msgid "An Arabic-first editorial block theme for زهرة المغرب — مجلة إلكترونية نسائية متخصصة. Native RTL, self-hosted Noto Kufi Arabic / Noto Naskh Arabic, LTR support for French articles, editorial homepage blocks without duplicate stories, and labelled advertising slots."
+msgstr ""
+
+#: patterns/ad-leaderboard.php
+msgctxt "Pattern title"
+msgid "Advertising — leaderboard"
+msgstr ""
+
+#: patterns/ad-leaderboard.php
+msgctxt "Pattern description"
+msgid "A labelled 728 × 90 slot (320 × 100 on phones). Hidden until ad code is pasted in."
+msgstr ""
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr ""
+
+#: patterns/editors-picks.php
+msgctxt "Pattern title"
+msgid "Editors’ selection"
+msgstr ""
+
+#: patterns/editors-picks.php
+msgctxt "Pattern description"
+msgid "Hand-picked stories. Hidden on the site until stories are chosen in the block settings."
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header (masthead + sticky navigation)"
+msgstr ""
+
+#: patterns/section-dark.php
+msgctxt "Pattern title"
+msgid "Category section — dark portrait band"
+msgstr ""
+
+#: patterns/section-dark.php
+msgctxt "Pattern description"
+msgid "Four portrait images on a dark full-width band. Suits celebrities and fashion."
+msgstr ""
+
+#: patterns/section-feature.php
+msgctxt "Pattern title"
+msgid "Category section — feature and list"
+msgstr ""
+
+#: patterns/section-feature.php
+msgctxt "Pattern description"
+msgid "One large story with a list beside it, from a category you choose."
+msgstr ""
+
+#: patterns/section-opinion.php
+msgctxt "Pattern title"
+msgid "Opinion section — text only"
+msgstr ""
+
+#: patterns/section-opinion.php
+msgctxt "Pattern description"
+msgid "Text-led opinion columns with author names, on a sand band."
+msgstr ""
+
+#: patterns/section-three-columns.php
+msgctxt "Pattern title"
+msgid "Three category columns"
+msgstr ""
+
+#: patterns/section-three-columns.php
+msgctxt "Pattern description"
+msgid "Three short category lists side by side, separated by hairlines."
+msgstr ""
+
+#: patterns/template-404.php
+msgctxt "Pattern title"
+msgid "Page not found"
+msgstr ""
+
+#: patterns/template-archive.php
+msgctxt "Pattern title"
+msgid "Archive (category, tag, author, date)"
+msgstr ""
+
+#: patterns/template-home.php
+msgctxt "Pattern title"
+msgid "Homepage"
+msgstr ""
+
+#: patterns/template-page-wide.php
+msgctxt "Pattern title"
+msgid "Wide page"
+msgstr ""
+
+#: patterns/template-page.php
+msgctxt "Pattern title"
+msgid "Page"
+msgstr ""
+
+#: patterns/template-search.php
+msgctxt "Pattern title"
+msgid "Search results"
+msgstr ""
+
+#: patterns/template-single-plain.php
+msgctxt "Pattern title"
+msgid "Article without table of contents"
+msgstr ""
+
+#: patterns/template-single.php
+msgctxt "Pattern title"
+msgid "Article"
+msgstr ""
+

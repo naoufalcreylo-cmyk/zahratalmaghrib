@@ -1,0 +1,979 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zahrat Al Maghrib 1.0.0\n"
+"POT-Creation-Date: 2026-10-19 21:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: zahrat-almaghrib\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5);\n"
+
+#: assets/js/editor.js:34
+msgid "— Select a category —"
+msgstr "— اختر قسماً —"
+
+#: assets/js/editor.js:47
+msgid "Category"
+msgstr "القسم"
+
+#: assets/js/editor.js:51
+msgid "Loading categories…"
+msgstr "جارٍ تحميل الأقسام…"
+
+#: assets/js/editor.js:127
+msgid "Move up"
+msgstr "نقل إلى الأعلى"
+
+#: assets/js/editor.js:128
+msgid "Move down"
+msgstr "نقل إلى الأسفل"
+
+#: assets/js/editor.js:133
+msgid "Remove"
+msgstr "إزالة"
+
+#: assets/js/editor.js:145
+msgid "Search posts to add"
+msgstr "ابحث عن مقال لإضافته"
+
+#: assets/js/editor.js:191
+msgid "Nothing to show here in the editor. The block renders with real content on the site."
+msgstr "لا شيء للعرض في المحرر. تظهر هذه الكتلة بمحتوى حقيقي على الموقع."
+
+#: assets/js/editor.js:203 assets/js/editor.js:413
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: assets/js/editor.js:263
+msgid "Replace logo"
+msgstr "استبدال الشعار"
+
+#: assets/js/editor.js:263
+msgid "Choose logo"
+msgstr "اختيار الشعار"
+
+#: assets/js/editor.js:267
+msgid "Remove logo"
+msgstr "إزالة الشعار"
+
+#: assets/js/editor.js:279
+msgid "Size"
+msgstr "الحجم"
+
+#: assets/js/editor.js:282
+msgid "Masthead"
+msgstr "ترويسة كبيرة"
+
+#: assets/js/editor.js:283
+msgid "Compact"
+msgstr "مصغّر"
+
+#: assets/js/editor.js:287
+msgid "Show tagline"
+msgstr "إظهار الشعار النصي"
+
+#: assets/js/editor.js:288
+msgid "The logo is shared by the whole site. Without a logo, a temporary Arabic wordmark is shown. The preview updates after reloading the editor."
+msgstr "الشعار مشترك بين كل صفحات الموقع. في غيابه يُعرض اسم عربي مؤقت. تتحدث المعاينة بعد إعادة تحميل المحرر."
+
+#: assets/js/editor.js:298
+msgid "Hand-picked stories (first = lead)"
+msgstr "مواضيع مختارة يدوياً (الأول هو الموضوع الرئيسي)"
+
+#: assets/js/editor.js:299
+msgid "No stories picked: sticky posts, then the latest posts, are used."
+msgstr "لم يُختر أي موضوع: تُستعمل المقالات المثبتة ثم أحدث المقالات."
+
+#: assets/js/editor.js:304
+msgid "Supporting stories"
+msgstr "المواضيع المرافقة"
+
+#: assets/js/editor.js:305
+msgid "Fill with sticky posts"
+msgstr "الإكمال بالمقالات المثبتة"
+
+#: assets/js/editor.js:306
+msgid "Limit automatic stories to a category"
+msgstr "حصر المواضيع التلقائية في قسم"
+
+#: assets/js/editor.js:306
+msgid "All categories"
+msgstr "كل الأقسام"
+
+#: assets/js/editor.js:314 assets/js/editor.js:325 assets/js/editor.js:358
+msgid "Title"
+msgstr "العنوان"
+
+#: assets/js/editor.js:314
+msgid "Leave empty for “Latest news”."
+msgstr "اتركه فارغاً لاستعمال «آخر الأخبار»."
+
+#: assets/js/editor.js:315 assets/js/editor.js:350
+msgid "Show excerpts"
+msgstr "إظهار المقتطفات"
+
+#: assets/js/editor.js:325
+msgid "Leave empty to use the category name."
+msgstr "اتركه فارغاً لاستعمال اسم القسم."
+
+#: assets/js/editor.js:327 assets/js/editor.js:388
+msgid "Layout"
+msgstr "التخطيط"
+
+#: assets/js/editor.js:330
+msgid "Feature + list"
+msgstr "موضوع بارز + قائمة"
+
+#: assets/js/editor.js:331 assets/js/editor.js:392
+msgid "Grid"
+msgstr "شبكة"
+
+#: assets/js/editor.js:332
+msgid "Portrait grid"
+msgstr "شبكة صور عمودية"
+
+#: assets/js/editor.js:333
+msgid "Column list"
+msgstr "قائمة عمودية"
+
+#: assets/js/editor.js:334
+msgid "Text only (opinion)"
+msgstr "نص فقط (رأي)"
+
+#: assets/js/editor.js:338 assets/js/editor.js:374
+msgid "Number of stories"
+msgstr "عدد المواضيع"
+
+#: assets/js/editor.js:340
+msgid "Background"
+msgstr "الخلفية"
+
+#: assets/js/editor.js:343
+msgid "None"
+msgstr "بدون"
+
+#: assets/js/editor.js:344
+msgid "Sand"
+msgstr "رملي"
+
+#: assets/js/editor.js:345
+msgid "Dark"
+msgstr "داكن"
+
+#: assets/js/editor.js:349
+msgid "Show “More” link"
+msgstr "إظهار رابط «المزيد»"
+
+#: assets/js/editor.js:358
+msgid "Leave empty for “Editors’ selection”."
+msgstr "اتركه فارغاً لاستعمال «مختارات التحرير»."
+
+#: assets/js/editor.js:360
+msgid "Stories"
+msgstr "المواضيع"
+
+#: assets/js/editor.js:361
+msgid "Pick 3, 4, 6 or 8 stories. The section stays hidden until you do."
+msgstr "اختر 3 أو 4 أو 6 أو 8 مواضيع. يبقى القسم مخفياً إلى أن تفعل ذلك."
+
+#: assets/js/editor.js:370
+msgid "Minimum level-2 headings"
+msgstr "الحد الأدنى لعناوين المستوى الثاني"
+
+#: assets/js/editor.js:381
+msgid "Menu location"
+msgstr "موضع القائمة"
+
+#: assets/js/editor.js:382
+msgid "Accessible label"
+msgstr "التسمية لقارئات الشاشة"
+
+#: assets/js/editor.js:391
+msgid "List"
+msgstr "قائمة"
+
+#: assets/js/editor.js:415
+msgid "Format (reserved space)"
+msgstr "المقاس (المساحة المحجوزة)"
+
+#: assets/js/editor.js:418
+msgid "Leaderboard — 728 × 90 / mobile 320 × 100"
+msgstr "شريط أفقي — 728 × 90 / الهاتف 320 × 100"
+
+#: assets/js/editor.js:419
+msgid "Rectangle — 300 × 250"
+msgstr "مستطيل — 300 × 250"
+
+#: assets/js/editor.js:420
+msgid "In-article — 300 × 250 / fluid"
+msgstr "داخل المقال — 300 × 250 / مرن"
+
+#: assets/js/editor.js:424
+msgid "Paste the ad code into the Custom HTML block. The slot and its “Advertisement” label stay hidden on the site while it is empty."
+msgstr "الصق كود الإشهار داخل كتلة HTML المخصّص. تبقى المساحة وتسمية «إشهار» مخفيتين على الموقع ما دامت فارغة."
+
+#: assets/js/editor.js:430 blocks/ad-slot/render.php:24
+msgid "Advertisement"
+msgstr "إشهار"
+
+#: blocks/ad-slot/block.json
+msgctxt "block title"
+msgid "Advertising slot"
+msgstr "مساحة إشهارية"
+
+#: blocks/ad-slot/block.json
+msgctxt "block description"
+msgid "A labelled advertising placement with reserved space. Hidden while empty."
+msgstr "موضع إشهاري موسوم بمساحة محجوزة. يبقى مخفياً ما دام فارغاً."
+
+#: blocks/ad-slot/render.php:18
+msgid "Advertising slot: hidden on the site until ad code is added."
+msgstr "مساحة إشهارية: مخفية على الموقع إلى أن يُضاف كود الإشهار."
+
+#: blocks/ad-slot/render.php:25
+msgctxt "ad label"
+msgid "Advertisement"
+msgstr "إشهار"
+
+#: blocks/archive-header/block.json
+msgctxt "block title"
+msgid "Archive header"
+msgstr "ترويسة الأرشيف"
+
+#: blocks/archive-header/block.json
+msgctxt "block description"
+msgid "Title, label and description for category, tag, author, date and search pages."
+msgstr "العنوان والتسمية والوصف لصفحات الأقسام والوسوم والكتّاب والتواريخ والبحث."
+
+#: blocks/archive-header/render.php:21
+msgid "Section"
+msgstr "قسم"
+
+#: blocks/archive-header/render.php:33
+msgid "Subsections"
+msgstr "الأقسام الفرعية"
+
+#: blocks/archive-header/render.php:40
+msgid "Tag"
+msgstr "وسم"
+
+#: blocks/archive-header/render.php:45
+msgid "Author"
+msgstr "الكاتب"
+
+#: blocks/archive-header/render.php:51 blocks/breadcrumbs/render.php:70
+msgid "Search results"
+msgstr "نتائج البحث"
+
+#: blocks/archive-header/render.php:53
+msgid "“%s”"
+msgstr "«%s»"
+
+#: blocks/archive-header/render.php:55 patterns/header.php:13 patterns/header.php:16 patterns/template-404.php:14
+msgid "Search"
+msgstr "بحث"
+
+#: blocks/archive-header/render.php:58 blocks/archive-header/render.php:61
+msgid "Archive"
+msgstr "الأرشيف"
+
+#: blocks/archive-header/render.php:92 blocks/breadcrumbs/render.php:85
+msgid "Page %s"
+msgstr "الصفحة %s"
+
+#: blocks/archive-header/render.php:108
+msgid "Search again"
+msgstr "ابحث من جديد"
+
+#: blocks/archive-header/render.php:72
+msgid "%s result"
+msgid_plural "%s results"
+msgstr[0] "%s نتيجة"
+msgstr[1] "نتيجة واحدة"
+msgstr[2] "نتيجتان"
+msgstr[3] "%s نتائج"
+msgstr[4] "%s نتيجة"
+msgstr[5] "%s نتيجة"
+
+#: blocks/archive-header/render.php:74
+msgid "%s article"
+msgid_plural "%s articles"
+msgstr[0] "%s مقال"
+msgstr[1] "مقال واحد"
+msgstr[2] "مقالان"
+msgstr[3] "%s مقالات"
+msgstr[4] "%s مقالاً"
+msgstr[5] "%s مقال"
+
+#: blocks/archive-list/block.json
+msgctxt "block title"
+msgid "Archive listing"
+msgstr "قائمة الأرشيف"
+
+#: blocks/archive-list/block.json
+msgctxt "block description"
+msgid "The current archive or search results with pagination and an empty state."
+msgstr "الأرشيف الحالي أو نتائج البحث مع ترقيم الصفحات ورسالة عند غياب النتائج."
+
+#: blocks/archive-list/render.php:42
+msgid "No results found"
+msgstr "لا توجد نتائج"
+
+#: blocks/archive-list/render.php:46
+msgid "We found no articles matching “%s”."
+msgstr "لم نعثر على مقالات تطابق «%s»."
+
+#: blocks/archive-list/render.php:50
+msgid "Check the spelling, or try writing the word with or without hamza (أ / ا) and ta marbuta (ة / ه)."
+msgstr "تحقّق من الإملاء، أو جرّب كتابة الكلمة بالهمزة أو بدونها (أ / ا) وبالتاء المربوطة أو الهاء (ة / ه)."
+
+#: blocks/archive-list/render.php:51
+msgid "Use fewer or more general words."
+msgstr "استعمل كلمات أقل أو أعمّ."
+
+#: blocks/archive-list/render.php:52
+msgid "Browse one of the sections below."
+msgstr "تصفّح أحد الأقسام أدناه."
+
+#: blocks/archive-list/render.php:55
+msgid "No articles here yet"
+msgstr "لا توجد مقالات هنا بعد"
+
+#: blocks/archive-list/render.php:56
+msgid "There are no published articles on this page. Browse the latest news or another section."
+msgstr "لا توجد مقالات منشورة في هذه الصفحة. تصفّح آخر الأخبار أو قسماً آخر."
+
+#: blocks/archive-list/render.php:59 patterns/footer.php:44
+msgid "Sections"
+msgstr "الأقسام"
+
+#: blocks/archive-list/render.php:65 patterns/template-404.php:38
+msgid "Back to the homepage"
+msgstr "العودة إلى الرئيسية"
+
+#: blocks/author-box/block.json
+msgctxt "block title"
+msgid "Author biography"
+msgstr "نبذة عن الكاتب"
+
+#: blocks/author-box/block.json
+msgctxt "block description"
+msgid "Author card, shown only when the author has a biography."
+msgstr "بطاقة الكاتب، تظهر فقط عند توفر نبذة."
+
+#: blocks/author-box/render.php:18
+msgid "The author card appears when the author has a biography in their profile."
+msgstr "تظهر بطاقة الكاتب عندما تتوفر نبذة في ملفه الشخصي."
+
+#: blocks/author-box/render.php:23
+msgid "About the author"
+msgstr "عن الكاتب"
+
+#: blocks/author-box/render.php:33
+msgid "All articles by %s"
+msgstr "كل مقالات %s"
+
+#: blocks/brand/block.json
+msgctxt "block title"
+msgid "Logo or wordmark"
+msgstr "الشعار أو الاسم"
+
+#: blocks/brand/block.json
+msgctxt "block description"
+msgid "Site logo when one is set; otherwise the temporary Arabic wordmark."
+msgstr "شعار الموقع إن وُجد، وإلا فالاسم العربي المؤقت."
+
+#: blocks/brand/render.php:12 inc/blocks.php:34 inc/setup.php:111
+msgid "Zahrat Al Maghrib"
+msgstr "زهرة المغرب"
+
+#: blocks/brand/render.php:33 blocks/copyright/render.php:14 blocks/lead-stories/render.php:67
+msgctxt "temporary Arabic wordmark"
+msgid "زهرة المغرب"
+msgstr "زهرة المغرب"
+
+#: blocks/breadcrumbs/block.json
+msgctxt "block title"
+msgid "Breadcrumbs"
+msgstr "مسار التنقل"
+
+#: blocks/breadcrumbs/block.json
+msgctxt "block description"
+msgid "Home › category › current page."
+msgstr "الرئيسية ‹ القسم ‹ الصفحة الحالية."
+
+#: blocks/breadcrumbs/render.php:17
+msgid "Home"
+msgstr "الرئيسية"
+
+#: blocks/breadcrumbs/render.php:74
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: blocks/breadcrumbs/render.php:78 blocks/latest/render.php:31
+msgid "Latest news"
+msgstr "آخر الأخبار"
+
+#: blocks/breadcrumbs/render.php:91
+msgid "Breadcrumb"
+msgstr "مسار التنقل"
+
+#: blocks/byline/block.json
+msgctxt "block title"
+msgid "Article byline"
+msgstr "سطر الكاتب والتاريخ"
+
+#: blocks/byline/block.json
+msgctxt "block description"
+msgid "Author, publication date and, when relevant, the updated date."
+msgstr "الكاتب وتاريخ النشر وتاريخ التحديث عند الاقتضاء."
+
+#: blocks/byline/render.php:29
+msgid "By"
+msgstr "بقلم"
+
+#: blocks/byline/render.php:35
+msgid "Published:"
+msgstr "نُشر في:"
+
+#: blocks/byline/render.php:40
+msgid "Updated:"
+msgstr "آخر تحديث:"
+
+#: blocks/copyright/block.json
+msgctxt "block title"
+msgid "Copyright line"
+msgstr "سطر حقوق النشر"
+
+#: blocks/copyright/block.json
+msgctxt "block description"
+msgid "© with the current year and the publication name."
+msgstr "© مع السنة الحالية واسم المجلة."
+
+#: blocks/curated/block.json
+msgctxt "block title"
+msgid "Editors’ selection"
+msgstr "مختارات التحرير"
+
+#: blocks/curated/block.json
+msgctxt "block description"
+msgid "Stories chosen by hand by the editors. Hidden until stories are picked."
+msgstr "مواضيع يختارها فريق التحرير يدوياً. تبقى مخفية إلى حين اختيارها."
+
+#: blocks/curated/render.php:18
+msgid "Editors’ selection is hidden on the site until you pick stories in the block settings."
+msgstr "قسم «مختارات التحرير» مخفي على الموقع إلى أن تختار المواضيع من إعدادات الكتلة."
+
+#: blocks/curated/render.php:26
+msgid "Editors’ selection"
+msgstr "مختارات التحرير"
+
+#: blocks/featured-figure/block.json
+msgctxt "block title"
+msgid "Article featured image"
+msgstr "الصورة البارزة للمقال"
+
+#: blocks/featured-figure/block.json
+msgctxt "block description"
+msgid "Featured image with caption and credit when available."
+msgstr "الصورة البارزة مع التعليق والمصدر عند توفرهما."
+
+#: blocks/featured-figure/render.php:51
+msgid "Photo: %s"
+msgstr "تصوير: %s"
+
+#: blocks/latest/block.json
+msgctxt "block title"
+msgid "Latest articles"
+msgstr "آخر المقالات"
+
+#: blocks/latest/block.json
+msgctxt "block description"
+msgid "Latest posts with real pagination, skipping stories already shown above."
+msgstr "أحدث المقالات مع ترقيم حقيقي للصفحات، دون تكرار ما عُرض أعلاه."
+
+#: blocks/latest/render.php:23
+msgid "No more posts to show."
+msgstr "لا توجد مقالات أخرى للعرض."
+
+#: blocks/latest/render.php:41
+msgid "%1$s — page %2$s"
+msgstr "%1$s — الصفحة %2$s"
+
+#: blocks/lead-stories/block.json
+msgctxt "block title"
+msgid "Lead stories"
+msgstr "المواضيع الرئيسية"
+
+#: blocks/lead-stories/block.json
+msgctxt "block description"
+msgid "One lead story and up to four supporting stories. Manual picks first, then sticky posts, then the latest posts."
+msgstr "موضوع رئيسي وما يصل إلى أربعة مواضيع مرافقة. الاختيار اليدوي أولاً، ثم المقالات المثبتة، ثم أحدث المقالات."
+
+#: blocks/lead-stories/render.php:58
+msgid "No published posts yet."
+msgstr "لا توجد مقالات منشورة بعد."
+
+#: blocks/lead-stories/render.php:67
+msgid "%s — top stories"
+msgstr "%s — أبرز المواضيع"
+
+#: blocks/lead-stories/render.php:69
+msgid "Top stories"
+msgstr "أبرز المواضيع"
+
+#: blocks/menu/block.json
+msgctxt "block title"
+msgid "Classic menu"
+msgstr "قائمة كلاسيكية"
+
+#: blocks/menu/block.json
+msgctxt "block description"
+msgid "Displays the menu assigned to a classic location. Hidden when no menu is assigned."
+msgstr "تعرض القائمة المعيّنة لموضع كلاسيكي. تختفي إن لم تُعيَّن قائمة."
+
+#: blocks/menu/render.php:13
+msgid "Assign a menu to this location in Appearance → Menus."
+msgstr "عيّن قائمة لهذا الموضع من المظهر ← القوائم."
+
+#: blocks/menu/render.php:19 inc/setup.php:38
+msgid "Footer links"
+msgstr "روابط التذييل"
+
+#: blocks/post-section/block.json
+msgctxt "block title"
+msgid "Category section"
+msgstr "قسم من المجلة"
+
+#: blocks/post-section/block.json
+msgctxt "block description"
+msgid "Stories from one existing category in one of several layouts."
+msgstr "مواضيع من قسم موجود بأحد التخطيطات المتاحة."
+
+#: blocks/post-section/render.php:17
+msgid "Choose an existing category for this section."
+msgstr "اختر قسماً موجوداً لهذا الجزء."
+
+#: blocks/post-section/render.php:37
+msgid "This category has no posts to show yet."
+msgstr "لا توجد مقالات في هذا القسم بعد."
+
+#: blocks/related/block.json
+msgctxt "block title"
+msgid "Related articles"
+msgstr "مقالات ذات صلة"
+
+#: blocks/related/block.json
+msgctxt "block description"
+msgid "Stories sharing tags or categories with the current article."
+msgstr "مواضيع تشترك مع المقال الحالي في الوسوم أو الأقسام."
+
+#: blocks/related/render.php:60
+msgid "Related articles"
+msgstr "مقالات ذات صلة"
+
+#: blocks/share/block.json
+msgctxt "block title"
+msgid "Share links"
+msgstr "روابط المشاركة"
+
+#: blocks/share/block.json
+msgctxt "block description"
+msgid "WhatsApp, Facebook and copy-link buttons."
+msgstr "أزرار واتساب وفيسبوك ونسخ الرابط."
+
+#: blocks/share/render.php:20
+msgid "(opens in a new tab)"
+msgstr "(يُفتح في لسان جديد)"
+
+#: blocks/share/render.php:23
+msgid "Share"
+msgstr "شارك"
+
+#: blocks/share/render.php:25
+msgid "WhatsApp"
+msgstr "واتساب"
+
+#: blocks/share/render.php:26
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: blocks/share/render.php:27
+msgid "Copy link"
+msgstr "نسخ الرابط"
+
+#: blocks/toc/block.json
+msgctxt "block title"
+msgid "Table of contents"
+msgstr "فهرس المحتويات"
+
+#: blocks/toc/block.json
+msgctxt "block description"
+msgid "Shown automatically when the article has enough headings."
+msgstr "يظهر تلقائياً عندما يضم المقال عناوين كافية."
+
+#: blocks/toc/render.php:25
+msgid "The table of contents appears when the article has at least three level-2 headings."
+msgstr "يظهر فهرس المحتويات عندما يضم المقال ثلاثة عناوين فرعية على الأقل."
+
+#: blocks/toc/render.php:32
+msgid "In this article"
+msgstr "في هذا المقال"
+
+#: inc/cards.php:55
+msgid "(Untitled)"
+msgstr "(بدون عنوان)"
+
+#: inc/cards.php:192
+msgid "More"
+msgstr "المزيد"
+
+#: inc/cards.php:219
+msgid "Previous"
+msgstr "السابق"
+
+#: inc/cards.php:220
+msgid "Next"
+msgstr "التالي"
+
+#: inc/cards.php:221
+msgid "Page"
+msgstr "الصفحة"
+
+#: inc/cards.php:227
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: inc/setup.php:65
+msgid "Link copied"
+msgstr "تم نسخ الرابط"
+
+#: inc/setup.php:66
+msgid "Copy failed. Select the address bar to copy the link."
+msgstr "تعذّر النسخ. حدّد شريط العنوان لنسخ الرابط."
+
+#: patterns/footer.php:22
+msgid "Zahrat Al Maghrib is a comprehensive women’s online magazine in Arabic and French, covering women, family and society, as well as news, culture, the arts and sport."
+msgstr "زهرة المغرب مجلة نسائية إلكترونية شاملة باللغتين العربية والفرنسية، تُعنى بشؤون المرأة والأسرة والمجتمع، وبالأخبار والثقافة والفنون والرياضة."
+
+#: patterns/footer.php:34
+msgid "The magazine"
+msgstr "المجلة"
+
+#: patterns/footer.php:58
+msgid "Back to top"
+msgstr "العودة إلى الأعلى"
+
+#: patterns/header.php:15
+msgid "Search the magazine…"
+msgstr "ابحث في المجلة…"
+
+#: patterns/header.php:24
+msgid "Main menu"
+msgstr "القائمة الرئيسية"
+
+#: patterns/template-404.php:11
+msgid "Search the magazine"
+msgstr "ابحث في المجلة"
+
+#: patterns/template-404.php:13
+msgid "Type a word or a name…"
+msgstr "اكتب كلمة أو اسماً…"
+
+#: patterns/template-404.php:26
+msgid "This page could not be found"
+msgstr "تعذّر العثور على هذه الصفحة"
+
+#: patterns/template-404.php:30
+msgid "The link may be broken, or the page may have been moved. Try searching, or go back to the homepage."
+msgstr "قد يكون الرابط معطوباً أو تكون الصفحة قد نُقلت. جرّب البحث أو عُد إلى الرئيسية."
+
+#: patterns/template-single-plain.php:44 patterns/template-single.php:45
+msgid "Tags:"
+msgstr "وسوم:"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Ivory"
+msgstr "عاجي"
+
+#: theme.json
+msgctxt "Color name"
+msgid "White"
+msgstr "أبيض"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sand"
+msgstr "رملي"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Border"
+msgstr "لون الحدود"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Charcoal"
+msgstr "فحمي"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Muted text"
+msgstr "نص ثانوي"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Burgundy"
+msgstr "عنابي"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Deep burgundy"
+msgstr "عنابي داكن"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Muted gold (decorative)"
+msgstr "ذهبي هادئ (للزخرفة)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gold (text-safe)"
+msgstr "ذهبي (صالح للنص)"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Night"
+msgstr "ليلي"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XS"
+msgstr "صغير جداً"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "S"
+msgstr "صغير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "M"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Article body"
+msgstr "نص المقال"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "L"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr "كبير جداً"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr "ضخم"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Display"
+msgstr "عنوان عريض"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Noto Kufi Arabic (headings)"
+msgstr "نوتو كوفي (للعناوين)"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Noto Naskh Arabic (reading)"
+msgstr "نوتو نسخ (للقراءة)"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Noto Serif (French)"
+msgstr "نوتو سيريف (للفرنسية)"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XS"
+msgstr "صغير جداً"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "S"
+msgstr "صغير"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "M"
+msgstr "متوسط"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "L"
+msgstr "كبير"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XL"
+msgstr "كبير جداً"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "XXL"
+msgstr "ضخم"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (sticky navigation)"
+msgstr "الترويسة (قائمة مثبتة)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header (static)"
+msgstr "الترويسة (ثابتة)"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "التذييل"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Wide page"
+msgstr "صفحة عريضة"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Article without table of contents"
+msgstr "مقال بدون فهرس"
+
+#: style.css
+msgid "An Arabic-first editorial block theme for زهرة المغرب — مجلة إلكترونية نسائية متخصصة. Native RTL, self-hosted Noto Kufi Arabic / Noto Naskh Arabic, LTR support for French articles, editorial homepage blocks without duplicate stories, and labelled advertising slots."
+msgstr "قالب كتل تحريري عربي أولاً لمجلة زهرة المغرب — مجلة إلكترونية نسائية متخصصة. اتجاه من اليمين إلى اليسار أصلي، وخطوط نوتو كوفي ونوتو نسخ مستضافة محلياً، ودعم المقالات الفرنسية من اليسار إلى اليمين، وكتل للصفحة الرئيسية دون تكرار المواضيع، ومساحات إشهارية موسومة."
+
+#: patterns/ad-leaderboard.php
+msgctxt "Pattern title"
+msgid "Advertising — leaderboard"
+msgstr "إشهار — شريط أفقي"
+
+#: patterns/ad-leaderboard.php
+msgctxt "Pattern description"
+msgid "A labelled 728 × 90 slot (320 × 100 on phones). Hidden until ad code is pasted in."
+msgstr "مساحة موسومة بمقاس 728 × 90 (و320 × 100 على الهاتف). تبقى مخفية إلى أن يُلصق كود الإشهار."
+
+#: patterns/comments.php
+msgctxt "Pattern title"
+msgid "Comments"
+msgstr "التعليقات"
+
+#: patterns/editors-picks.php
+msgctxt "Pattern title"
+msgid "Editors’ selection"
+msgstr "مختارات التحرير"
+
+#: patterns/editors-picks.php
+msgctxt "Pattern description"
+msgid "Hand-picked stories. Hidden on the site until stories are chosen in the block settings."
+msgstr "مواضيع مختارة يدوياً. تبقى مخفية على الموقع إلى أن تُختار من إعدادات الكتلة."
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "التذييل"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header (masthead + sticky navigation)"
+msgstr "الترويسة (عنوان المجلة + قائمة مثبتة)"
+
+#: patterns/section-dark.php
+msgctxt "Pattern title"
+msgid "Category section — dark portrait band"
+msgstr "قسم — شريط داكن بصور عمودية"
+
+#: patterns/section-dark.php
+msgctxt "Pattern description"
+msgid "Four portrait images on a dark full-width band. Suits celebrities and fashion."
+msgstr "أربع صور عمودية على شريط داكن بعرض الصفحة. يناسب المشاهير والموضة."
+
+#: patterns/section-feature.php
+msgctxt "Pattern title"
+msgid "Category section — feature and list"
+msgstr "قسم — موضوع بارز وقائمة"
+
+#: patterns/section-feature.php
+msgctxt "Pattern description"
+msgid "One large story with a list beside it, from a category you choose."
+msgstr "موضوع كبير وبجانبه قائمة، من قسم تختاره."
+
+#: patterns/section-opinion.php
+msgctxt "Pattern title"
+msgid "Opinion section — text only"
+msgstr "قسم الرأي — نص فقط"
+
+#: patterns/section-opinion.php
+msgctxt "Pattern description"
+msgid "Text-led opinion columns with author names, on a sand band."
+msgstr "أعمدة رأي نصية مع أسماء الكتّاب، على خلفية رملية."
+
+#: patterns/section-three-columns.php
+msgctxt "Pattern title"
+msgid "Three category columns"
+msgstr "ثلاثة أعمدة للأقسام"
+
+#: patterns/section-three-columns.php
+msgctxt "Pattern description"
+msgid "Three short category lists side by side, separated by hairlines."
+msgstr "ثلاث قوائم قصيرة متجاورة تفصل بينها خطوط رفيعة."
+
+#: patterns/template-404.php
+msgctxt "Pattern title"
+msgid "Page not found"
+msgstr "الصفحة غير موجودة"
+
+#: patterns/template-archive.php
+msgctxt "Pattern title"
+msgid "Archive (category, tag, author, date)"
+msgstr "الأرشيف (قسم، وسم، كاتب، تاريخ)"
+
+#: patterns/template-home.php
+msgctxt "Pattern title"
+msgid "Homepage"
+msgstr "الصفحة الرئيسية"
+
+#: patterns/template-page-wide.php
+msgctxt "Pattern title"
+msgid "Wide page"
+msgstr "صفحة عريضة"
+
+#: patterns/template-page.php
+msgctxt "Pattern title"
+msgid "Page"
+msgstr "صفحة"
+
+#: patterns/template-search.php
+msgctxt "Pattern title"
+msgid "Search results"
+msgstr "نتائج البحث"
+
+#: patterns/template-single-plain.php
+msgctxt "Pattern title"
+msgid "Article without table of contents"
+msgstr "مقال بدون فهرس"
+
+#: patterns/template-single.php
+msgctxt "Pattern title"
+msgid "Article"
+msgstr "مقال"
+
