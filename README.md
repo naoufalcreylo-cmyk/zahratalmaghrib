@@ -145,3 +145,24 @@ This extracts strings from PHP/JS/block.json/theme.json/pattern headers into
 ```bash
 tar -a -cf dist/zahrat-almaghrib.zip zahrat-almaghrib
 ```
+
+---
+
+## 4. Static preview on Vercel (demo only)
+
+Vercel cannot run WordPress (no PHP, no database), so the repository also contains
+`static-preview/`, a **static HTML snapshot** of the local test site with sample content, and a
+`vercel.json` that tells Vercel to serve that folder as-is (no build step). Pushing to `main`
+redeploys it.
+
+The snapshot is a mock-up for showing the design. Search and comments don't work, a banner marks it
+as a preview with sample content, and every page is sent with `X-Robots-Tag: noindex` so search
+engines don't index it. The real theme is installed on the WordPress host from `dist/zahrat-almaghrib.zip`.
+
+To regenerate it after changing the theme, start the local Playground (§3) and run:
+
+```bash
+node tools/export-static.mjs http://127.0.0.1:9400 static-preview
+```
+
+Set `PUBLIC_URL` if the preview is served from another address (it is used in share links).
